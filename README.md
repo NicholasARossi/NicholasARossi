@@ -14,5 +14,7 @@ Hi, I'm Nicholas Rossi,a full stack machine-learning engineer living the bay are
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white)
-![](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Tools-CIRCLECI-informational?style=flat&logo=CIRCLECI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+
+
