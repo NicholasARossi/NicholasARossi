@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner_gif](new_logo.gif)
+![banner_gif](logo_new.gif)
 
 Hi, I'm Nicholas Rossi,a full stack machine-learning engineer living the bay area, currently working at [synthego](https://www.synthego.com/)
 
