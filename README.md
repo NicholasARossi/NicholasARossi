@@ -2,7 +2,7 @@
 
 ![banner_gif](max_logo.gif)
 
-Hi, I'm Nicholas Rossi,a full stack machine-learning engineer living the bay area, currently working at [synthego](https://www.synthego.com/)
+Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
 
   
 ## 🔧 Technologies & Tools
