@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Alt Text](larger_gif.gif)
+<img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/logo.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/radial_hist.png" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/lego_gif.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/oscillators.png" width="24%">
+
+
 
 Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
 
