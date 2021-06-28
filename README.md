@@ -1,20 +1,31 @@
 ### Hi there 👋
 
-![banner_gif](max_logo.gif)
+<p style="text-align:center;"><img src="https://github.com/NicholasARossi/NicholasARossi/blob/main/max_logo.gif?raw=true" width="50%"></p>
+
 
 Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
 
   
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-CIRCLECI-informational?style=flat&logo=CIRCLECI&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=ff69b4)
+
+
+### Machine Learning Apps
+
+- **[听好了 : a deep learning platform for mandarin tone practice](https://www.tinghaole.com/)**
+
+### Machine Learning Competitions 
+
+- **[Cochlear Implant Hackathon (February, 2021)](https://www.tinghaole.com/)**
+- **[Genetic Attribution Challenge (October, 2020)](https://github.com/NicholasARossi/genetic_attribution_challenge)**
+
+### Science
+- <a href="https://doi.org/10.1038/s41467-020-18853-3"><img src="https://img.shields.io/badge/DOI-10.1038/s41467-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **CRISPRoff enables spatio-temporal control of CRISPR editing (2020)**
+
+- <a href="https://doi.org/10.1038/s42003-019-0509-0"><img src="https://img.shields.io/badge/DOI-10.1038/s42003-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Forecasting cell fate during antibiotic exposure using stochastic gene expression (2019)](https://gitlab.com/dunloplab/forecasting-cell-fate)**
+
+- <a href="https://doi.org/10.1016/j.cels.2018.04.001"><img src="https://img.shields.io/badge/DOI-10.1016/j.cels.2018.04.001-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Making Waves with Synthetic Oscillators (2018)**
+
+- <a href="https://doi.org/110.1371/journal.pcbi.1006634"><img src="https://img.shields.io/badge/DOI-10.1371/journal.pcbi.1006634-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Active degradation of MarA controls coordination of its downstream targets (2018)](https://github.com/NicholasARossi/MarA-Halflife-2018)**
+
+- <a href="https://doi.org/10.1371/journal.pcbi.1005310"><img src="https://img.shields.io/badge/DOI-10.1371/journal.pcbi.1005310-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Customized Regulation of Diverse Stress Response Genes by the Multiple Antibiotic Resistance Activator MarA (2017)](https://github.com/NicholasARossi/MarA-Multigene-Regulation)**
 
 
