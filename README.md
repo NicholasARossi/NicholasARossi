@@ -14,7 +14,7 @@ Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Are
 
 ### Machine Learning Competitions 
 
-- **[Cochlear Implant Hackathon (February, 2021)](https://www.tinghaole.com/)**
+- **[Cochlear Implant Hackathon (February, 2021)](https://github.com/NicholasARossi/Cochlear_Implant_Hackathon)**
 - **[Genetic Attribution Challenge (October, 2020)](https://github.com/NicholasARossi/genetic_attribution_challenge)**
 
 ### Science
