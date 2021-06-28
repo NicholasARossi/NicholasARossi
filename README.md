@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<p style="text-align:center;"><img src="https://github.com/NicholasARossi/NicholasARossi/blob/main/small_gif.gif?raw=true" width="100%"></p>
+![Alt Text](larger_gif.gif)
 
 Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
 
