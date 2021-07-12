@@ -5,6 +5,7 @@
 
 Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
 
+[![Nicks github stats](https://github-readme-stats.vercel.app/api?username=nicholasarossi)](https://github.com/nicholasarossi/github-readme-stats)
   
 
 
