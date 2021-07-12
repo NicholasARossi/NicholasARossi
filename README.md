@@ -17,7 +17,7 @@ Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Are
 
 ### Data Science Stories
 
-<img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/Desktop-01.png" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/natgeo-01.png" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/NYC-01.png" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/rome-01.png" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/smoking-01.png" width="19%">
+<img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/Desktop-01.png" alt="https://www.rossidata.com/FinancialCrisis" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/natgeo-01.png" alt="https://www.rossidata.com/NatGeo" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/NYC-01.png" alt="https://www.rossidata.com/segregation" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/rome-01.png" alt="https://www.rossidata.com/res/blog_11_romans/emperor_scroll/scrollytelling.html" width="19%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/pngs/smoking-01.png" alt="https://www.rossidata.com/cigarettes" width="19%">
 
 
 ### Science
