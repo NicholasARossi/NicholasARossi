@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working at [Synthego](https://www.synthego.com/)
+Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently building search/query resolution algorithms at Walmart Labs, formerly at [Synthego](https://www.synthego.com/)
 
 
 ### Machine Learning Apps
