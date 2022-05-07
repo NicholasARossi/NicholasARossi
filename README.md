@@ -21,6 +21,8 @@ Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Are
 
 
 ### Science
+- <a href="http://dx.doi.org/10.1089/crispr.2021.0113"><img src="https://img.shields.io/badge/DOI-10.1038/s41467-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Inference of CRISPR edits from Sanger Trace Data (2022)**
+- 
 - <a href="https://doi.org/10.1038/s41467-020-18853-3"><img src="https://img.shields.io/badge/DOI-10.1038/s41467-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **CRISPRoff enables spatio-temporal control of CRISPR editing (2020)**
 
 - <a href="https://doi.org/10.1038/s42003-019-0509-0"><img src="https://img.shields.io/badge/DOI-10.1038/s42003-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Forecasting cell fate during antibiotic exposure using stochastic gene expression (2019)](https://gitlab.com/dunloplab/forecasting-cell-fate)**
