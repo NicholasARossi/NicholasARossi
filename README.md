@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!-- <img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/logo.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/radial_hist.png" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/lego_gif.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/oscillators.png" width="24%"> -->
-<img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/logo.gif"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/radial_hist.png"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/lego_gif.gif"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/oscillators.png">
+<img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/logo.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/radial_hist.png" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/lego_gif.gif" width="24%"><img src="https://raw.githubusercontent.com/NicholasARossi/NicholasARossi/main/gifs/oscillators.png" width="24%">
+
 
 
 
