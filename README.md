@@ -4,7 +4,7 @@
 
 
 
-Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently building search/query resolution algorithms at [Walmart Global Tech](https://www.linkedin.com/company/walmartglobaltech/mycompany/), formerly at [Synthego](https://www.synthego.com/)
+Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Area, currently working in neural information retrieval at [Walmart Global Tech](https://www.linkedin.com/company/walmartglobaltech/mycompany/), formerly at [Synthego](https://www.synthego.com/)
 
 
 ### Machine Learning Apps
