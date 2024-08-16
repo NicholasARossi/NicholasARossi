@@ -22,6 +22,10 @@ Hi, I'm Nicholas Rossi,a full-stack machine learning engineer living the Bay Are
 
 
 ### Science
+- <a href="https://doi.org/10.48550/arXiv.2408.04887"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2408.04887-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Relevance Filtering for Embedding-based Retrieval (2024)**
+  
+- <a href="https://doi.org/10.48550/arXiv.2408.04884"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2408.04884-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Enhancing Relevance of Embedding-based Retrieval at Walmart (2024)**
+  
 - <a href="http://dx.doi.org/10.1089/crispr.2021.0113"><img src="https://img.shields.io/badge/DOI-10.1038/s41467-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **Inference of CRISPR edits from Sanger Trace Data (2022)**
 - <a href="https://doi.org/10.1038/s41467-020-18853-3"><img src="https://img.shields.io/badge/DOI-10.1038/s41467-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **CRISPRoff enables spatio-temporal control of CRISPR editing (2020)**
 
